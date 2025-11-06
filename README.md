@@ -63,19 +63,6 @@ I focus on **low-latency architectures**, **streaming data pipelines**, and **hi
 
 ---
 
-## 📊 GitHub Metrics
-
-![Vishnu’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=VishnuVardhanReddy&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VishnuVardhanReddy&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=VishnuVardhanReddy&theme=gruvbox&no-frame=true&margin-w=10)
-
----
-
 ## ✍️ Developer Quote
 
 > “Performance is not an afterthought — it’s the architecture.”
@@ -86,7 +73,6 @@ I focus on **low-latency architectures**, **streaming data pipelines**, and **hi
 
 🌐 [LinkedIn](https://www.linkedin.com/in/vishnureddy786/)  
 📧 [Email](mailto:vishnureddivari@gmail.com)  
-📄 [Resume](#)
 
 ---
 
